@@ -15,7 +15,7 @@
         compatible = "zmk,combos";
 
         to_layer_meta {
-            bindings = <&to 3>;
+            bindings = <&to 2>;
             key-positions = <36 42 43 50>;
         };
     };
